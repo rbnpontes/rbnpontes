@@ -1,29 +1,32 @@
-### Hello and Nice to meet you 👋
-I'm Ruben Gomes, a Software Engineer and Game Engine Developer *(and no, i don't make any games)*
+I'm **Ruben Gomes**, a **Staff Frontend & AI Engineer** based in Brazil, specializing in building high-performance, scalable web applications and AI-driven interfaces. 
 
-### About me
-- 🔭 I’m currently working as Frontend Developer
-- ⚙️ I'm develop my own game engine named as `REngine`
-- 💬 You can ask me about HTML Development and Game Development, i really like theses themes
-- 🔥 My Skills: JavaScript, C#, C++, React and Angular.
-- 📫 How to reach me ? Here is my discord user: rbnpontes and e-mail: rbnpontes@gmail.com
+With nearly a decade of software engineering experience, I bridge the gap between complex business needs, modern AI integrations, and bulletproof user interfaces.
 
-I really like to work with games and web development and pixels is my comfortable place.
-I have some good knowledge and experience that i can share with you by free if its is your interest.
+---
 
-The truth is that I have had some challenges that some people don't want to face and I say that every
-challenge that I face as if a warrior were going into battle. *The bug won't pass 🧙🏼‍♂️*
+### 🚀 What I Do
+- 🔭 **Currently focusing on:** Scalable frontend architectures, Server-Side Rendering (SSR) optimization, and seamless AI/LLM integrations into web products.
+- 💡 **Core Expertise:** React, Next.js, Angular, TypeScript, State Management, and Enterprise-grade monorepo setups.
+- 🧠 **AI Integration:** Building intelligent UIs, streaming chat interfaces, and integrating local/cloud LLM pipelines.
+- ⚙️ **Systems & Passion:** When I'm not building web apps, I build custom game engines and tackle low-level systems challenges (currently developing **REngine**, a custom engine project).
 
-I'm not afraid anything, if it's a problem that no one can solve ? Great i accept the challenge!
+---
 
-You liked my profile ? Send me a message through my e-mail or discord, even if you are not an recruiter
-It's always good to share, listen and learn new experiences from new people.
-  
-### About my Game Engine
-I started this project along time ago, i made several attempts and finally i started to work on.
-So i recently started with a simple C# engine which turned into a supreme monstrous of super over engineer.
+### 🛠️ Tech Stack & Tools
+- **Frontend:** React, Next.js, Angular, TypeScript, Tailwind CSS, RxJS, HTML5/CSS3.
+- **AI & Automation:** LLMs, Prompt Engineering, Workflow Automation (n8n).
+- **Architecture & Systems:** Monorepos, Performance Optimization, CI/CD, C++, C#.
 
-I back some steps, talk with some great people and i started the work again but from a fork of a deprecated fork
-of Atomic Game Engine that i love.
+---
 
-I hope that one day i can use this project to made a good game and maybe work on a great company. So if you are an recruiter, send me a message.
+### 🧙‍♂️ How I Approach Engineering
+> *"The bug won't pass."* 
+I thrive on complex challenges that others shy away from. Whether it's optimizing Core Web Vitals for global users, refactoring legacy enterprise codebases, or architecting systems from scratch, I love turning difficult problems into clean, maintainable solutions.
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/rbnpontes](https://www.linkedin.com/in/rbnpontes)
+- **E-mail:** `rbnpontes@gmail.com`
+
+*Always happy to connect with fellow engineers, tech leaders, and teams looking for high-impact technical expertise.*
